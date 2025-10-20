@@ -2,151 +2,151 @@
   type: map
   contents:
     - name: Full Name
-      value: Pablo Brugarolas
+      value: "Pablo Brugarolas"
     - name: Date of Birth
-      value: 25 March 1996
+      value: "25 March 1996"
     - name: Email
-      value: pablo.brugarolas@udg.edu
+      value: "pablo.brugarolas@udg.edu"
     - name: Address
-      value: Department of Economics, Universitat de Girona, C/ Universitat de Girona, 10, 17003 Girona (Spain)
+      value: "Department of Economics, Universitat de Girona, C/ Universitat de Girona, 10, 17003 Girona (Spain)"
     - name: Profiles
       value: "@pablobrugarolas"
     - name: Languages
-      value: English (fluent), Spanish (native)
+      value: "English (fluent), Spanish (native)"
 
 - title: Academic Positions
   type: time_table
   contents:
-    - title: Research Fellow
-      institution: Department of Economics, Universitat de Girona. Girona, Spain
-      year: 2025–
-    - title: Visiting Research Student
-      institution: Department of Economics, Universidad de La Laguna. San Cristóbal de La Laguna, Spain
-      year: 2025
-    - title: Visiting Research Student
-      institution: Department of Social Policy, London School of Economics. London, United Kingdom
-      year: 2024
-    - title: Research Assistant
-      institution: Department of Economics, Universitat de Girona. Girona, Spain
-      year: 2021–2022
-    - title: Research Assistant
-      institution: Department of Political and Social Sciences, Universitat Pompeu Fabra. Barcelona, Spain
-      year: 2020–2021
-    - title: Research Analyst
-      institution: ISEAK Foundation. Bilbao, Spain
-      year: 2020
-    - title: Research Assistant
-      institution: Institute of Public Policies and Goods (IPP), Spanish National Research Council (CSIC). Madrid, Spain
-      year: 2019–2020
-    - title: Internship
-      institution: Institute of Public Policies and Goods (IPP), Spanish National Research Council (CSIC). Madrid, Spain
-      year: 2017–2018
+    - title: "Research Fellow"
+      institution: "Department of Economics, Universitat de Girona. Girona, Spain"
+      year: "2025–"
+    - title: "Visiting Research Student"
+      institution: "Department of Economics, Universidad de La Laguna. San Cristóbal de La Laguna, Spain"
+      year: "2025"
+    - title: "Visiting Research Student"
+      institution: "Department of Social Policy, London School of Economics. London, United Kingdom"
+      year: "2024"
+    - title: "Research Assistant"
+      institution: "Department of Economics, Universitat de Girona. Girona, Spain"
+      year: "2021–2022"
+    - title: "Research Assistant"
+      institution: "Department of Political and Social Sciences, Universitat Pompeu Fabra. Barcelona, Spain"
+      year: "2020–2021"
+    - title: "Research Analyst"
+      institution: "ISEAK Foundation. Bilbao, Spain"
+      year: "2020"
+    - title: "Research Assistant"
+      institution: "Institute of Public Policies and Goods (IPP), Spanish National Research Council (CSIC). Madrid, Spain"
+      year: "2019–2020"
+    - title: "Internship"
+      institution: "Institute of Public Policies and Goods (IPP), Spanish National Research Council (CSIC). Madrid, Spain"
+      year: "2017–2018"
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD in Economics
-      institution: Universitat de Girona. Girona, Spain
-      year: 2022–2025
+    - title: "PhD in Economics"
+      institution: "Universitat de Girona. Girona, Spain"
+      year: "2022–2025"
       description: |
-        Thesis: *Essays in Applied Economics* (Honours).  
+        Thesis: <em>Essays in Applied Economics</em> (Honours).  
         Supervisor: Sara Ayllón Gatnau.
-    - title: M.Sc. in Labor Economics
-      institution: Universitat Autònoma de Barcelona. Barcelona, Spain
-      year: 2020–2021
-      description: "Thesis: *The impact of stay-at-home orders on mental health: Evidence from search-based symptoms* (Honours)."
-    - title: Erasmus program (B.Sc. in Philosophy, Politics and Economics)
-      institution: University of Warwick. Coventry, United Kingdom
-      year: 2017–2018
-    - title: B.Sc. in International Studies
-      institution: Universidad Carlos III de Madrid. Madrid, Spain
-      year: 2015–2019
-      description: "Thesis: *The effectiveness of the Active Insertion Income program: evidence from the Region of Murcia* (Honours)."
+    - title: "M.Sc. in Labor Economics"
+      institution: "Universitat Autònoma de Barcelona. Barcelona, Spain"
+      year: "2020–2021"
+      description: "Thesis: <em>The impact of stay-at-home orders on mental health: Evidence from search-based symptoms</em> (Honours)."
+    - title: "Erasmus program (B.Sc. in Philosophy, Politics and Economics)"
+      institution: "University of Warwick. Coventry, United Kingdom"
+      year: "2017–2018"
+    - title: "B.Sc. in International Studies"
+      institution: "Universidad Carlos III de Madrid. Madrid, Spain"
+      year: "2015–2019"
+      description: "Thesis: <em>The effectiveness of the Active Insertion Income program: evidence from the Region of Murcia</em> (Honours)."
 
 - title: Affiliations
   type: time_table
   contents:
-    - title: Women in Social and Public Policy Research Hub
-      institution: London School of Economics
-      year: 2024–
-    - title: EQUALITAS – Economics of Inequality and Poverty Analysis
-      institution: Universitat de Girona
-      year: 2022–
+    - title: "Women in Social and Public Policy Research Hub"
+      institution: "London School of Economics"
+      year: "2024–"
+    - title: "EQUALITAS – Economics of Inequality and Poverty Analysis"
+      institution: "Universitat de Girona"
+      year: "2022–"
 
 - title: Research Interests
   type: list
   contents:
-    - Family economics; economics of human development; education economics; poverty and inequality; causal-inference methods.
+    - "Family economics; economics of human development; education economics; poverty and inequality; causal-inference methods."
 
 - title: Publications
   type: nested_list
   contents:
     - title: Peer-reviewed journals
       items:
-        - "Ayllón, S.; Brugarolas, P.; Lado, S. (2024). *New estimates for inequality of opportunity in Europe using elastic net algorithms*, **Applied Economics Letters**, 1–5."
-        - "Brugarolas, P.; Miller, L. (2021). *The causal effect of polls on turnout intention: a local randomization regression discontinuity approach*, **Political Analysis**, 29(4), 554–560."
+        - "Ayllón, S.; Brugarolas, P.; Lado, S. (2024). <em>New estimates for inequality of opportunity in Europe using elastic net algorithms</em>, <strong>Applied Economics Letters</strong>, 1–5."
+        - "Brugarolas, P.; Miller, L. (2021). <em>The causal effect of polls on turnout intention: a local randomization regression discontinuity approach</em>, <strong>Political Analysis</strong>, 29(4), 554–560."
     - title: Chapters in edited volumes
       items:
-        - "Ayllón, S.; Brugarolas, P.; Lado, S. (2024). *ICT use and children's self-reported life satisfaction*, in *Understanding the Everyday Digital Lives of Children and Young People*, eds. Holmarsdottir, Seland, Hyggen, Roth. Palgrave Macmillan, pp. 239–279 (Ch. 9)."
+        - "Ayllón, S.; Brugarolas, P.; Lado, S. (2024). <em>ICT use and children's self-reported life satisfaction</em>, in <em>Understanding the Everyday Digital Lives of Children and Young People</em>, eds. Holmarsdottir, Seland, Hyggen, Roth. Palgrave Macmillan, pp. 239–279 (Ch. 9)."
     - title: Other publications and invited contributions
       items:
-        - "Ayllón, S.; Brugarolas, P.; Lado, S. (2023). *La transmisión intergeneracional de la pobreza y la desigualdad de oportunidades en España*. Ministerio de Derechos Sociales y Agenda 2030. [Spanish]"
-        - "Brugarolas, P.; Gorjón, L.; Lizarraga, I.; Vega-Bayo, A. (2021). *Youth Employment PartnerSHIP. Report on outreach performance and YGS implementation: Results and efficiency in Spain*. ISEAK Report 2021/4."
-        - "Brugarolas, P.; Gorjón, L.; de la Rica, S. (2020). *El uso de datos administrativos para la investigación*. ISEAK Report 2020/3. [Spanish]"
-        - "Brugarolas, P.; Gorjón, L.; de la Rica, S.; Romero, G. (2020). *La renta ciudadana y los Objetivos de Desarrollo Sostenible en Canarias*. [Spanish]"
-        - "Brugarolas, P.; Gorjón, L.; de la Rica, S.; Romero, G. (2020). *Estudio sobre el impacto de rentas mínimas en la pobreza en Canarias*. [Spanish]"
+        - "Ayllón, S.; Brugarolas, P.; Lado, S. (2023). <em>La transmisión intergeneracional de la pobreza y la desigualdad de oportunidades en España</em>. Ministerio de Derechos Sociales y Agenda 2030. [Spanish]"
+        - "Brugarolas, P.; Gorjón, L.; Lizarraga, I.; Vega-Bayo, A. (2021). <em>Youth Employment PartnerSHIP. Report on outreach performance and YGS implementation: Results and efficiency in Spain</em>. ISEAK Report 2021/4."
+        - "Brugarolas, P.; Gorjón, L.; de la Rica, S. (2020). <em>El uso de datos administrativos para la investigación</em>. ISEAK Report 2020/3. [Spanish]"
+        - "Brugarolas, P.; Gorjón, L.; de la Rica, S.; Romero, G. (2020). <em>La renta ciudadana y los Objetivos de Desarrollo Sostenible en Canarias</em>. [Spanish]"
+        - "Brugarolas, P.; Gorjón, L.; de la Rica, S.; Romero, G. (2020). <em>Estudio sobre el impacto de rentas mínimas en la pobreza en Canarias</em>. [Spanish]"
     - title: Working papers
       items:
-        - "Brugarolas, P. (2025). *Revisiting the causal benefits of universal childcare: The roles of publication and attenuation bias*. Submitted."
-        - "Brugarolas, P. (2025). *Childcare provision and mother’s labor supply: The role of publication bias and weak causal design*. Submitted."
-        - "Ayllón, S.; Brugarolas, P. (2025). *When early gains fade: The limits of dynamic complementarity under austerity*."
+        - "Brugarolas, P. (2025). <em>Revisiting the causal benefits of universal childcare: The roles of publication and attenuation bias</em>. Submitted."
+        - "Brugarolas, P. (2025). <em>Childcare provision and mother’s labor supply: The role of publication bias and weak causal design</em>. Submitted."
+        - "Ayllón, S.; Brugarolas, P. (2025). <em>When early gains fade: The limits of dynamic complementarity under austerity</em>."
 
 - title: Research Projects
   type: time_table
   contents:
-    - title: PATHS2INCLUDE — European labour markets under pressure
-      year: 2023–2026
+    - title: "PATHS2INCLUDE — European labour markets under pressure"
+      year: "2023–2026"
       description: "Horizon Europe, European Commission."
-    - title: INEQOP — Inequality and opportunities
-      year: 2023–2025
+    - title: "INEQOP — Inequality and opportunities"
+      year: "2023–2025"
       description: "Spanish Ministry of Science and Innovation."
-    - title: Inequality of opportunity in Spain — an estimation using Artificial Intelligence
-      year: 2022–2023
+    - title: "Inequality of opportunity in Spain — an estimation using Artificial Intelligence"
+      year: "2022–2023"
       description: "Institute of Fiscal Studies (IEF)."
-    - title: Economic analysis of public policies (2021SGR570)
-      year: 2022–2025
+    - title: "Economic analysis of public policies (2021SGR570)"
+      year: "2022–2025"
       description: "Grup de Recerca Reconegut, AGAUR."
-    - title: The intergenerational transmission of poverty in Spain
-      year: 2021–2022
+    - title: "The intergenerational transmission of poverty in Spain"
+      year: "2021–2022"
       description: "Spanish Ministry of Social Rights and 2030 Agenda."
-    - title: DigiGen — The impact of technological transformations on the digital generation
-      year: 2020–2022
+    - title: "DigiGen — The impact of technological transformations on the digital generation"
+      year: "2020–2022"
       description: "H2020 (DT-TRANSFORMATIONS-07-2019), European Commission."
-    - title: Revising equality of educational opportunities by social origin
-      year: 2020–2021
+    - title: "Revising equality of educational opportunities by social origin"
+      year: "2020–2021"
       description: "Spanish Ministry of Economic Affairs and Digital Transformation."
-    - title: Design of regional supplements to the Minimum Living Income in the Canary Islands
-      year: 2020
+    - title: "Design of regional supplements to the Minimum Living Income in the Canary Islands"
+      year: "2020"
       description: "Government of the Canary Islands."
-    - title: Youth employment partnerSHIP — evaluation studies in Spain, Hungary, Italy and Poland
-      year: 2020
+    - title: "Youth employment partnerSHIP — evaluation studies in Spain, Hungary, Italy and Poland"
+      year: "2020"
       description: "EEA and Norway Grants."
 
 - title: Presentations in Conferences/Workshops
   type: list
   contents:
-    - "<b>2025:</b> Research Seminar, Universidad de La Laguna; Applied Lunch Seminar, University of Barcelona."
-    - "<b>2024:</b> Children’s Health, Well-Being, and Human Capital Formation Workshop, Barcelona GSE; MAER-Net Colloquium, University of Augsburg; 14th International Workshop on Applied Economics of Education, University of Catanzaro; CEP Work-in-Progress Seminar, LSE; Social Policy Quantitative Reading Group, LSE; X Equalitas Workshop, Universitat de Girona."
-    - "<b>2023:</b> MAER-Net Colloquium, Universitat de les Illes Balears; Opportunity and Mobility Workshop, LSE; Spanish Ministry of Social Rights and 2030 Agenda."
-    - "<b>2022:</b> Social Mobility and Intergenerational Transmission of Opportunities in Rich Countries, Universidad de Alcalá de Henares."
+    - "<strong>2025:</strong> Research Seminar, Universidad de La Laguna; Applied Lunch Seminar, University of Barcelona."
+    - "<strong>2024:</strong> Children’s Health, Well-Being, and Human Capital Formation Workshop, Barcelona GSE; MAER-Net Colloquium, University of Augsburg; 14th International Workshop on Applied Economics of Education, University of Catanzaro; CEP Work-in-Progress Seminar, LSE; Social Policy Quantitative Reading Group, LSE; X Equalitas Workshop, Universitat de Girona."
+    - "<strong>2023:</strong> MAER-Net Colloquium, Universitat de les Illes Balears; Opportunity and Mobility Workshop, LSE; Spanish Ministry of Social Rights and 2030 Agenda."
+    - "<strong>2022:</strong> Social Mobility and Intergenerational Transmission of Opportunities in Rich Countries, Universidad de Alcalá de Henares."
 
 - title: Academic Awards and Scholarships
   type: list
   contents:
-    - "<b>2024:</b> Mobility scholarship, Amics del País."
-    - "<b>2022:</b> IFUdG Doctoral Scholarship, Universitat de Girona & Banco Santander."
+    - "<strong>2024:</strong> Mobility scholarship, Amics del País."
+    - "<strong>2022:</strong> IFUdG Doctoral Scholarship, Universitat de Girona &amp; Banco Santander."
 
-- title: Research Training & Short Courses
+- title: Research Training &amp; Short Courses
   type: list
   contents:
     - "2025: Shift-share IV with Peter Hull (Mixtape)."
@@ -161,9 +161,9 @@
 - title: Referee Service
   type: list
   contents:
-    - Journal of Economic Surveys.
+    - "Journal of Economic Surveys."
 
 - title: Computer Skills
   type: list
   contents:
-    - "<b>Programming:</b> Stata, R, LaTeX, Markdown; Python (basic)."
+    - "<strong>Programming:</strong> Stata, R, LaTeX, Markdown; Python (basic)."
