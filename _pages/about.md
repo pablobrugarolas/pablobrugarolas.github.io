@@ -18,6 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am research fellow at University of Girona (Economics Department. I am part of the [Women in Social and Public Policy Research Hub](https://www.lse.ac.uk/social-policy/research/Research-clusters/WISPPRH) at LSE. 
+I am a research fellow at University of Girona (Economics Department). I am part of the [Women in Social and Public Policy Research Hub](https://www.lse.ac.uk/social-policy/research/Research-clusters/WISPPRH) at LSE. 
 
 I am passionately engaged in `family economics`, `economics of human development`, `education economics`, `economics of poverty and inequality`, and `causal-inference methods`. My thesis delves into the impacts of universal childcare policies on children and mothers, combining meta-analysis with causal designs. 
