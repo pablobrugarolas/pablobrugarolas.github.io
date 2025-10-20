@@ -7,9 +7,6 @@ profile:
   align: right
   image: profile_website.jpg
   image_circular: false
-  more_info: |
-    <strong>Contact</strong><br>
-    pablo.brugarolas@udg.edu
 news: true
 latest_posts: false
 selected_papers: true
