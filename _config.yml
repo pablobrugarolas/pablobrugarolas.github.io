@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Pablo
+first_name: Pablo Brugarolas
 middle_name:
-last_name: Brugarolas
+last_name:
 email: pablo.brugarolas@udg.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Pablo Brugarolas Research Fellow in Economics at Universitat de Girona - Personal website.
