@@ -2,7 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Fellow, <a href='https://www.udg.edu/ca/depec'>Universitat de Girona</a> (Spain)
+subtitle: >
+  Research Fellow, <a href="https://www.udg.edu/ca/depec">Universitat de Girona</a> (Spain)<br>
+  Visiting Fellow, <a href="https://www.lse.ac.uk/people/pablo-brugarolas">London School of Economics</a> (UK)
 profile:
   align: right
   image: profile_website.jpg
