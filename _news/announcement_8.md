@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-	I will be joining LSE’s Department of Social Policy as a Visiting Fellow (2026-2029).
+I will be joining LSE’s Department of Social Policy as a Visiting Fellow (2026-2029).
