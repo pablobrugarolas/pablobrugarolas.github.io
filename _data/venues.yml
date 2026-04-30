@@ -1,18 +1,11 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
-
-"PhysRev":
-  url: https://journals.aps.org/
-
 "Work in progress":
   color: "#3A3D3F"
 
-"Working paper":
+"Working Paper":
   color: "#3A3D3F"
 
 "Book chapter":
-  color: "#E32D62"
+  color: "#c90c43"
 
 "Policy Report":
   color: "#6874FE"
