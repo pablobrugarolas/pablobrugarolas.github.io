@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /policy/
-title: research
+title: policy
 description: Policy reports and applied research output in reversed chronological order.
 nav: true
 nav_order: 2
