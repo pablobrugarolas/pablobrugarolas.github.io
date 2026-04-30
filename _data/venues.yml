@@ -4,3 +4,17 @@
 
 "PhysRev":
   url: https://journals.aps.org/
+
+"Work in progress":
+  color: "#3A3D3F"
+
+"Working paper":
+  color: "#3A3D3F"
+
+"Book chapter":
+  color: "#E32D62"
+
+"Policy Report":
+  color: "#6874FE"
+
+  
