@@ -1,0 +1,68 @@
+---
+---
+
+Buttons:
+- `abbr`: Adds an abbreviation to the left of the entry. You can add links to these by creating a venue.yaml-file in the _data folder and adding entries that match.
+- `abstract`: Adds an "Abs" button that expands a hidden text field when clicked to show the abstract text
+- `arxiv`: Adds a link to the Arxiv website (Note: only add the arxiv identifier here - the link is generated automatically)
+- `bibtex_show`: Adds a "Bib" button that expands a hidden text field with the full bibliography entry
+- `html`: Inserts an "HTML" button redirecting to the user-specified link
+- `pdf`: Adds a "PDF" button redirecting to a specified file (if a full link is not specified, the file will be assumed to be placed in the /assets/pdf/ directory)
+- `supp`: Adds a "Supp" button to a specified file (if a full link is not specified, the file will be assumed to be placed in the /assets/pdf/ directory)
+- `blog`: Adds a "Blog" button redirecting to the specified link
+- `code`: Adds a "Code" button redirecting to the specified link
+- `poster`: Adds a "Poster" button redirecting to a specified file (if a full link is not specified, the file will be assumed to be placed in the /assets/pdf/ directory)
+- `video`: Adds a "Video" button redirecting to a specified file (if a full link is not specified, the file will be assumed to be placed in the /assets/video/ directory)
+- `slides`: Adds a "Slides" button redirecting to a specified file (if a full link is not specified, the file will be assumed to be placed in the /assets/pdf/ directory)
+- `website`: Adds a "Website" button redirecting to the specified link
+- `altmetric`: Adds an [Altmetric](https://www.altmetric.com/) badge (Note: if DOI is provided just use `true`, otherwise only add the altmetric identifier here - the link is generated automatically)
+- `dimensions`: Adds a [Dimensions](https://www.dimensions.ai/) badge (Note: if DOI or PMID is provided just use `true`, otherwise only add the Dimensions' identifier here - the link is generated automatically)
+
+
+@techreport{ayllon2023transmision,
+  title = {La transmisión intergeneracional de la pobreza y la desigualdad de oportunidades en España},
+  bibtex_show={true},
+  abbr={Policy Report},
+  author = {Ayllón, Sara and Brugarolas, Pablo and Lado, Samuel},
+  year = {2023},
+  institution={Ministerio de Derechos Sociales y Agenda 2020},
+  publisher = {Universitat de Girona. Servei de Publicacions},
+  pdf={ayllon2023transmision.pdf},
+  html = {http://hdl.handle.net/10256/22795},
+}
+
+@techreport{brugarolas2021youth,
+  title={Youth Employment PartnerSHIP. Report on outreach performance and YGS implementation: Results and efficiency in Spain},
+  bibtex_show={true},
+  abbr={Policy Report},
+  author={Brugarolas, Pablo and Gorjón, Lucía and Lizarraga, Imanol and Vega-Bayo, Ainhoa},
+  year={2021},
+  institution={ISEAK},
+  number={2021/4},
+  url={https://iseak.eu/publicacion/youth-employment-partnership-report-on-outreach-performance-and-ygs-implementation-results-and-efficiency-in-spain},
+  abstract={This study provides a statistical profile of NEETs in Spain, analyzing their outreach levels and exploring regional differences. The report also examines the Youth Guarantee System through surveys with Spanish regional employment officials, suggesting improvements to better align the policy's interventions with its objectives.},
+  pdf={brugarolas2021youth.pdf},
+}
+
+@techreport{brugarolas2020uso,
+  title={El uso de datos administrativos para la investigación. El caso de Dinamarca: un ejemplo de buenas prácticas},
+  author={Brugarolas, Pablo and Gorjón, Lucía and de la Rica, Sara},
+  bibtex_show={true},
+  abbr={Policy Report},
+  year={2020},
+  institution={ISEAK},
+  number={2020/3},
+  url={https://iseak.eu/documentos/el-uso-de-datos-administrativos-para-la-investigacion-el-caso-de-dinamarca-un-ejemplo-de-buenas-practicas},
+  abstract={Este informe destaca la integración de datos administrativos para la evaluación de políticas públicas, presentando la Base de Datos Integrada para la Investigación del Mercado Laboral (IDA) como un caso ejemplar. El documento revisa la estructura de IDA y su proceso de unificación con fuentes de datos externas, resaltando su diseño y la facilidad de armonización con otras fuentes.},
+   pdf={brugarolas2020uso.pdf},
+}
+
+@techreport{brugarolas2020impacto,
+  title={Estudio sobre el impacto de rentas mínimas en la pobreza en Canarias},
+  author={Brugarolas, Pablo and Gorjón, Lucía and de la Rica, Sara and Romero, Gonzalo},
+  year={2020},
+  institution={ISEAK},
+  bibtex_show={true},
+  abbr={Policy Report},
+}
+
