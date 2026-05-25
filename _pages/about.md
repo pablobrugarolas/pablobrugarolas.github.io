@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  Research Fellow, <a href="https://www.udg.edu/ca/depec">Universitat de Girona</a> (Spain)<br>
+  Lecturer,  <a href="https://www.ull.es/centros/facultad-de-economia-empresa-y-turismo/c">  Universidad de La Laguna </a> (Spain)<br>
   Visiting Fellow, <a href="https://www.lse.ac.uk/people/pablo-brugarolas">London School of Economics</a> (UK)
 profile:
   align: right
@@ -15,7 +15,7 @@ selected_papers: true
 social: true
 ---
 
-I’m a Research Fellow at the Department of Economics, Universitat de Girona. I obtained my PhD in Economics from the Universitat de Girona in 2025.
+I'm a Lecturer (Profesor Sustituto) at the Department of Economics, University of La Laguna. I obtained my PhD in Economics from the Universitat de Girona in 2025.
 
 My research interests include  Education,  Labor, and Public economics. 
 
