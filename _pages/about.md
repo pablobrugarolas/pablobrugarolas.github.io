@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  Lecturer,  <a href="https://www.ull.es/centros/facultad-de-economia-empresa-y-turismo/c">  Universidad de La Laguna </a> (Spain)<br>
+  Lecturer,  <a href="https://www.ull.es/centros/facultad-de-economia-empresa-y-turismo">  Universidad de La Laguna </a> (Spain)<br>
   Visiting Fellow, <a href="https://www.lse.ac.uk/people/pablo-brugarolas">London School of Economics</a> (UK)
 profile:
   align: right
