@@ -3,12 +3,12 @@
   contents:
     - name: Full Name
       value: "Pablo Brugarolas"
-    - name: Date of Birth
-      value: "25 March 1996"
+    - name: Year of Birth
+      value: "1996"
     - name: Email
-      value: "pablo.brugarolas@udg.edu"
+      value: "pbrugaro@ull.edu.es"
     - name: Address
-      value: "Department of Economics, Universitat de Girona, C/ Universitat de Girona, 10, 17003 Girona (Spain)"
+      value: "Department of Economics, Universidad de La Laguna, Santa Cruz de Tenerife (Spain)"
     - name: Profiles
       value: "@pablobrugarolas"
     - name: Languages
@@ -17,9 +17,12 @@
 - title: Academic Positions
   type: time_table
   contents:
+     - title: "Lecture (Profesor Sustituto)"
+      institution: "Department of Economics, Universitat de La Laguna. Santa Cruz de Tenerife, Spain"
+      year: "2026–"
     - title: "Research Fellow"
       institution: "Department of Economics, Universitat de Girona. Girona, Spain"
-      year: "2025–"
+      year: "2025–2026"
     - title: "Visiting Research Student"
       institution: "Department of Economics, Universidad de La Laguna. San Cristóbal de La Laguna, Spain"
       year: "2025"
