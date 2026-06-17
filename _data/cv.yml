@@ -81,28 +81,37 @@
   contents:
     - "Family economics; economics of human development; education economics; poverty and inequality; causal-inference methods."
 
-- title: Publications
+* title: Publications
   type: nested_list
   contents:
-    - title: Peer-reviewed journals
-      items:
-        - "Ayllón, S.; Brugarolas, P.; Lado, S. (2024). <em>New estimates for inequality of opportunity in Europe using elastic net algorithms</em>, <strong>Applied Economics Letters</strong>, 1–5."
-        - "Brugarolas, P.; Miller, L. (2021). <em>The causal effect of polls on turnout intention: a local randomization regression discontinuity approach</em>, <strong>Political Analysis</strong>, 29(4), 554–560."
-    - title: Chapters in edited volumes
-      items:
-        - "Ayllón, S.; Brugarolas, P.; Lado, S. (2024). <em>ICT use and children's self-reported life satisfaction</em>, in <em>Understanding the Everyday Digital Lives of Children and Young People</em>, eds. Holmarsdottir, Seland, Hyggen, Roth. Palgrave Macmillan, pp. 239–279 (Ch. 9)."
-    - title: Other publications and invited contributions
-      items:
-        - "Ayllón, S.; Brugarolas, P.; Lado, S. (2023). <em>La transmisión intergeneracional de la pobreza y la desigualdad de oportunidades en España</em>. Ministerio de Derechos Sociales y Agenda 2030. [Spanish]"
-        - "Brugarolas, P.; Gorjón, L.; Lizarraga, I.; Vega-Bayo, A. (2021). <em>Youth Employment PartnerSHIP. Report on outreach performance and YGS implementation: Results and efficiency in Spain</em>. ISEAK Report 2021/4."
-        - "Brugarolas, P.; Gorjón, L.; de la Rica, S. (2020). <em>El uso de datos administrativos para la investigación</em>. ISEAK Report 2020/3. [Spanish]"
-        - "Brugarolas, P.; Gorjón, L.; de la Rica, S.; Romero, G. (2020). <em>La renta ciudadana y los Objetivos de Desarrollo Sostenible en Canarias</em>. [Spanish]"
-        - "Brugarolas, P.; Gorjón, L.; de la Rica, S.; Romero, G. (2020). <em>Estudio sobre el impacto de rentas mínimas en la pobreza en Canarias</em>. [Spanish]"
-    - title: Working papers
-      items:
-        - "Brugarolas, P. (2025). <em>Revisiting the causal benefits of universal childcare: The roles of publication and attenuation bias</em>. Submitted."
-        - "Brugarolas, P. (2025). <em>Childcare provision and mother’s labor supply: The role of publication bias and weak causal design</em>. Submitted."
-        - "Ayllón, S.; Brugarolas, P. (2025). <em>When early gains fade: The limits of dynamic complementarity under austerity</em>."
+
+  * title: Peer-reviewed journals
+    items:
+
+    * "Brugarolas, P. (2026). <em>Early Childhood Education and Care and mother’s labor supply: The role of publication and weak causal design biases</em>, <strong>Review of Economics of the Household</strong>."
+    * "Ayllón, S.; Brugarolas, P.; Lado, S. (2024). <em>New estimates for inequality of opportunity in Europe using elastic net algorithms</em>, <strong>Applied Economics Letters</strong>, 1–5."
+    * "Brugarolas, P.; Miller, L. (2021). <em>The causal effect of polls on turnout intention: a local randomization regression discontinuity approach</em>, <strong>Political Analysis</strong>, 29(4), 554–560."
+
+  * title: Chapters in edited volumes
+    items:
+
+    * "Ayllón, S.; Brugarolas, P.; Lado, S. (2024). <em>ICT use and children's self-reported life satisfaction</em>, in <em>Understanding the Everyday Digital Lives of Children and Young People</em>, eds. Holmarsdottir, Seland, Hyggen, Roth. Palgrave Macmillan, pp. 239–279 (Ch. 9)."
+
+  * title: Other publications and invited contributions
+    items:
+
+    * "Ayllón, S.; Brugarolas, P.; Lado, S. (2023). <em>La transmisión intergeneracional de la pobreza y la desigualdad de oportunidades en España</em>. Ministerio de Derechos Sociales y Agenda 2030. [Spanish]"
+    * "Brugarolas, P.; Gorjón, L.; Lizarraga, I.; Vega-Bayo, A. (2021). <em>Youth Employment PartnerSHIP. Report on outreach performance and YGS implementation: Results and efficiency in Spain</em>. ISEAK Report 2021/4."
+    * "Brugarolas, P.; Gorjón, L.; de la Rica, S. (2020). <em>El uso de datos administrativos para la investigación</em>. ISEAK Report 2020/3. [Spanish]"
+    * "Brugarolas, P.; Gorjón, L.; de la Rica, S.; Romero, G. (2020). <em>La renta ciudadana y los Objetivos de Desarrollo Sostenible en Canarias</em>. [Spanish]"
+    * "Brugarolas, P.; Gorjón, L.; de la Rica, S.; Romero, G. (2020). <em>Estudio sobre el impacto de rentas mínimas en la pobreza en Canarias</em>. [Spanish]"
+
+  * title: Working papers and work in progress
+    items:
+
+    * "Brugarolas, P. (2026). <em>Publication Bias and the Benefits of Universal Childcare for Children</em>. Submitted."
+    * "Ayllón, S.; Brugarolas, P. (2026). <em>Increased flexibility and the position of women in the labour market: Has it changed after the pandemic?</em>. Work in progress."
+    * "Ayllón, S.; Brugarolas, P. (2026). <em>When early gains fade: The limits of dynamic complementarity under austerity</em>. Work in progress."
 
 - title: Research Projects
   type: time_table
@@ -138,7 +147,7 @@
 - title: Presentations in Conferences/Workshops
   type: list
   contents:
-    - "<strong>2025:</strong> Research Seminar, Universidad de La Laguna; Applied Lunch Seminar, University of Barcelona."
+    - "<strong>2025:</strong> SAEe 2025 – Symposium of the Spanish Economic Association, Autonomous University of Barcelona; Research Seminar, Universidad de La Laguna; Applied Lunch Seminar, University of Barcelona."
     - "<strong>2024:</strong> Children’s Health, Well-Being, and Human Capital Formation Workshop, Barcelona GSE; MAER-Net Colloquium, University of Augsburg; 14th International Workshop on Applied Economics of Education, University of Catanzaro; CEP Work-in-Progress Seminar, LSE; Social Policy Quantitative Reading Group, LSE; X Equalitas Workshop, Universitat de Girona."
     - "<strong>2023:</strong> MAER-Net Colloquium, Universitat de les Illes Balears; Opportunity and Mobility Workshop, LSE; Spanish Ministry of Social Rights and 2030 Agenda."
     - "<strong>2022:</strong> Social Mobility and Intergenerational Transmission of Opportunities in Rich Countries, Universidad de Alcalá de Henares."
@@ -152,6 +161,7 @@
 - title: Research Training &amp; Short Courses
   type: list
   contents:
+    - "2026: CodeChella Causal Inference Workshop on Difference-in-Differences, CUNEF, Madrid."
     - "2025: Shift-share IV with Peter Hull (Mixtape)."
     - "2023: 2nd COORDINATE Summer School — Analysis of Data from the National Educational Panel Study (LIfBi, Bamberg)."
     - "2023: Empirical Bayes and Large-scale Inference (Christopher Walters, Mixtape)."
@@ -164,9 +174,10 @@
 - title: Referee Service
   type: list
   contents:
-    - "Journal of Economic Surveys."
+    - "Quarterly Journal of Economics (1)."
+    - "Journal of Economic Surveys (2)."
 
 - title: Computer Skills
   type: list
   contents:
-    - "<strong>Programming:</strong> Stata, R, LaTeX, Markdown; Python (basic)."
+    - "<strong>Programming:</strong> Stata, R, LaTeX, Markdown; Python."
