@@ -8,11 +8,11 @@ middle_name:
 last_name:
 email: pbrugaro@ull.edu.es
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Pablo Brugarolas Research Fellow in Economics at Universitat de Girona - Personal website.
+  Pablo Brugarolas is a Lecturer in Economics at Universidad de La Laguna and Visiting Fellow at the London School of Economics. His research focuses on education, labor, public economics, early childhood education, gender gaps, inequality, and causal inference.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.   
-keywords: Pablo Brugarolas Navarro, Pablo Brugarolas, pablobrugarolas, Brugarolas @pablobrugarolas, pablo.brugarolas@udg.edu, pbrugaro@ull.edu.es, Sara Ayllón   # add your own keywords or leave empty
+keywords: Pablo Brugarolas, Pablo Brugarolas Navarro, education economics, labor economics, public economics, early childhood education, childcare, gender gaps, inequality, causal inference, meta-analysis, Universidad de La Laguna, London School of Economics, Sara Ayllon   # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: profile_website_circle.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
